@@ -226,7 +226,7 @@ nav ul li a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width:100%;
+    width:1500px;
     height: 600px;
     text-align: center;
     box-shadow: 2px 2px 20px rgba(90,118,253,0.15);
